@@ -1,0 +1,7 @@
+[package]
+name = "python_parse"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+comment-parser = "0.1.0" # Or the latest version
