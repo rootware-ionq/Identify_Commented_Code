@@ -27,7 +27,8 @@ fn main() {
                         "{:#?}\t {:#?}",
                         python_code[..python_code.find(span).unwrap()]
                             .lines()
-                            .count(),
+                            .count()
+                            + 1,
                         span
                     );
                 }
