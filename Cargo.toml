@@ -5,4 +5,3 @@ edition = "2024"
 
 [dependencies]
 comment-parser = "0.1.0" # Or the latest version
-rustpython-parser = "0.4.0"
