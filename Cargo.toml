@@ -1,7 +1,8 @@
 [package]
-name = "python_parse"
+name = "bring_out_your_dead"
 version = "0.1.0"
 edition = "2024"
 
 [dependencies]
 comment-parser = "0.1.0" # Or the latest version
+rustpython-parser = "0.4.0"
